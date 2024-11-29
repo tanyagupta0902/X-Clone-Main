@@ -25,7 +25,7 @@ Image Hosting: Cloudinary
 Installation and Setup
 
 1. Clone the repository:
-git clone https://github.com/your-username/twitter-clone.git
+git clone https://github.com/tanyagupta0902/X-Clone-Main/tree/main/X-Clone-main%20(1)/X-Clone-main
 cd twitter-clone
 
 2.Install dependencies for both backend and frontend:
@@ -74,7 +74,7 @@ postcss: ^8.4.38
 tailwindcss: ^3.4.4
 
 Author
-Pranjali Singh.
+Tanya Gupta
 
 
 
